@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nicholas Revenco</h1>
 <h3 align="center">A frontend developer, but have other expertise</h3>
 
+- 🔭 I’m currently working on [San Diego Barbell Club Website](https://sdbarbellclub.com/)
+
+- 🔭 I’m currently working on [The Media Assist](https://the-media-assist-demo.web.app/)
+
+- 🔭 I’m currently working on **The Stock Market With Machine Learning**
+
 - 📫 How to reach me **nicholas.revenco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicholas revenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas revenco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicholas-revenco-aaaa27280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas revenco" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
