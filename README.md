@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicholas Revenco</h1>
-<h3 align="center">A frontend developer, but have other expertise</h3>
-
-- 🔭 I’m currently working on [San Diego Barbell Club Website](https://sdbarbellclub.com/)
-
-- 🔭 I’m currently working on [The Media Assist](https://the-media-assist-demo.web.app/)
-
-- 🔭 I’m currently working on **The Stock Market With Machine Learning**
+<h1 align="center">Hi, I'm Nicholas Revenco</h1>
 
 - 📫 How to reach me **nicholas.revenco@gmail.com**
 
